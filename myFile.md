@@ -1,7 +1,5 @@
-# myFile
-
 ## A. Name
-Rebecca Shanley
+Becky Shanley
 
 ## B. Favorite Movie
 Howl's Moving Castle
